@@ -2,9 +2,9 @@
   datasoThreadLocal: urce.type=com.alibaba.druid.pool.DruidDataSource
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    password: ENC(U+x8ePI/K7QTKbivoYs78A==)
-    url: jdbc:mysql://localhost:3306/mysqlDB?characterEncoding=UTF-8
-    username: root
+      url: jdbc:mysql://10.15.15.196:3306/jinandemo?characterEncoding=UTF-8
+      username: root
+      password: primeton4cloud
 
  server:
   port: 12251
